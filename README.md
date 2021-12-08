@@ -1,5 +1,6 @@
 # A3
 Document 1- Overview 
+
 The following report details the development of a WebCrawler and two NLP systems that interrogate 500 twitter posts from 26 November 2021, 
 when Technical Advisory Group on SARS-CoV-2 Virus Evolution (TAG-VE) convened to assess the virus’ combinations, mutations, and behaviours, 
 and publicly classified the Omicron variant- a variant of concern (WHO, 2021). The WebCrawler extracted 500 posts directly from Twitter, a 
